@@ -45,7 +45,7 @@ function getDefaultModules() {
         loader: 'style-loader!css-loader!less-loader'
       },
       {
-        test: /\.styl/,
+        test: /\.styl(us)?$/,
         loader: 'style-loader!css-loader!stylus-loader'
       },
       {
