@@ -27,7 +27,7 @@ html,body{
    position: relative;
 
    width:100%;
-   height:680px;
+   height:100%;
  }
  /* stage -- end */
 
@@ -62,10 +62,10 @@ html,body{
        width:240px;
        height:280px;
      }
-     
+
      figcaption{
        text-align: center;
-       
+
        .img-title{
          margin:10px 0 0 0;
          color: #a7a0a2;
@@ -98,7 +98,7 @@ html,body{
 
      }
    }
-   
+
  }
 
  /* image -- end */
